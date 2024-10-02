@@ -62,8 +62,9 @@ GitFlow est une stratégie de gestion de branches dans Git. Elle permet de mieux
   ```
 
 
-![GitFlow Diagram](https://wac-cdn.atlassian.com/dam/jcr:a9cea7b7-23c3-41a7-a4e0-affa053d9ea7/04%20(1).svg?cdnVersion=1154)
+
 
 ## Conclusion
+![GitFlow Diagram](./MASTER-1024x576.png)
 GitFlow offre une structure claire pour gérer les différentes étapes du développement logiciel, de la création de nouvelles fonctionnalités à la gestion des versions et des corrections urgentes. En suivant ce workflow, les équipes peuvent travailler de manière plus organisée et efficace.
 
